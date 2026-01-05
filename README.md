@@ -6,7 +6,7 @@ I am a **Google Certified IT Support Specialist** from Bangladesh. I combine 6 y
 
 ### 🛠 Technical Skills & Experience
 * **Community Tech Support:** 8 years of experience helping 50+ users with Windows, Android, and iOS setup, software troubleshooting, and account security.
-* **Operating Systems:** Windows (System recovery and setup) and Linux (CLI and Virtualization).
+* **Operating Systems:** Windows (System recovery,CLI, and setup) and Linux (CLI and Virtualization).
 * **Virtualization:** Hands-on experience building and managing Linux environments using **VirtualBox**.
 * **Ticketing:** Proficient in **Freshdesk** for managing user requests.
 * **Business Operations:** 6+ years as an Assistant Manager with 100% accuracy in transactions and inventory.
